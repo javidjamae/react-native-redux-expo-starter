@@ -8,6 +8,11 @@ README in the master branch for more details.
 This branch demonstrates how to override RNRF ```Scene``` properties from within a
 component using `Actions.refresh`.
 
+You can see a demo of the app here:
+
+https://exp.host/@javidjamae/rnrf-action-refresh
+
+
 The ```Scene``` is defined as follow:
 
 ```

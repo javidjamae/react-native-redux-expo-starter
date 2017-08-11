@@ -3,7 +3,6 @@ import {
 } from './types'
 
 export const createPlaceholderSynchronousAction = ( value ) => {
-  console.log('action fired', value)
   return { type: PLACEHOLDER_TYPE, payload: { value } }
 }
 
