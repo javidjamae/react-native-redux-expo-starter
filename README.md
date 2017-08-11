@@ -6,3 +6,6 @@ wire in redux-thunk as middleware.
 
 The app is merely a placeholder component that has a TextInput which
 replicates its contents into a Text field using the redux state.
+
+See the project on Expo here:
+https://exp.host/@javidjamae/react-native-redux-expo-starter
